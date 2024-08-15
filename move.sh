@@ -1,3 +1,4 @@
+#!/bin/bash
 git submodule deinit sub
 git rm sub
 rm -rf .git/modules/sub
